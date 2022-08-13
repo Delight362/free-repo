@@ -4,7 +4,7 @@
 
 int main(void)
 {
-printf("hello delight\n");
+printf("hello delight!\n");
 return 0;
 
 printf("hello delight\n");
